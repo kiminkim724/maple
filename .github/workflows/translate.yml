@@ -13,5 +13,5 @@ jobs:
         with:
           target_languages: es
           input_file_path: public/locales/en/common.json
-          output_file_name_pattern: locales/{language}/common.json
+          output_file_name_pattern: public/locales/{language}/common.json
           deepl_api_key: ${{ secrets.DEEPL_API_KEY }}
