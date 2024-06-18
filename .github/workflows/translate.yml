@@ -7,8 +7,10 @@ on:
       - "public/locales/en/*"
 
 jobs:
-  build:
+  prepare_matrix:
     runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.set-matrix.outputs.matrix }}
     steps:
       - name: Checkout
         uses: actions/checkout@v2
@@ -22,23 +24,23 @@ jobs:
             changed:
               - 'public/locales/en/*'
 
+      - name: Set matrix for translation
+        id: set-matrix
+        run: echo "::set-output name=matrix::{\"file\":${{ steps.filter.outputs.changed_files }}}"
+
+  build:
+    needs: prepare_matrix
+    runs-on: ubuntu-latest
+    strategy:
+      matrix: ${{ fromJson(needs.prepare_matrix.outputs.matrix) }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
       - name: Translate files
-        run: |
-          for file in ${{ fromJson(steps.filter.outputs.changed_files) }}
-          do
-            echo "Translating $file"
-            lyqht/deepl-translate-github-action@v2.1.0
-            with:
-              target_languages: es, zh, pt
-              input_file_path: $file
-              output_file_name_pattern: public/locales/{language}/${file##*/}
-              deepl_api_key: ${{ secrets.DEEPL_API_KEY }}
-          done
-        if: steps.filter.outputs.changed == 'true'
-      - name: Prettify JSON
-        run: |
-          for file in $(echo ${{ steps.changes.outputs.json_files }})
-          do
-            jq . $file > temp.json && mv temp.json $file
-          done
-        if: steps.changes.outputs.json == 'true'
+        uses: lyqht/deepl-translate-github-action@v2.1.0
+        with:
+          target_languages: es, zh, pt
+          input_file_path: ${{ matrix.file }}
+          output_file_name_pattern: public/locales/{language}/${{ matrix.file }}
+          deepl_api_key: ${{ secrets.DEEPL_API_KEY }}
