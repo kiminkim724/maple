@@ -28,9 +28,17 @@ jobs:
             echo "Translating $file"
             lyqht/deepl-translate-github-action@v2.1.0
             with:
-              target_languages: es
+              target_languages: es, zh, pt
               input_file_path: $file
               output_file_name_pattern: public/locales/{language}/${file##*/}
               deepl_api_key: ${{ secrets.DEEPL_API_KEY }}
+          done
+        if: steps.changes.outputs.json == 'true'
+
+      - name: Prettify JSON
+        run: |
+          for file in $(echo ${{ steps.changes.outputs.json_files }})
+          do
+            jq . $file > temp.json && mv temp.json $file
           done
         if: steps.changes.outputs.json == 'true'
