@@ -1,0 +1,39 @@
+{
+  "title": "MAPLE para pessoas singulares",
+  "callToAction": {
+    "header": "Porquê utilizar MAPLE",
+    "title": "O MAPLE facilita a sua participação na conversa sobre os projectos de lei que irão moldar o nosso futuro.",
+    "bodytext": "Com uma pesquisa rápida no MAPLE, você pode ver quais projetos de lei a legislatura estadual está considerando sobre os tópicos que lhe interessam. Você pode descobrir que mudanças de política são propostas, ver o que outros eleitores e organizações estão dizendo sobre elas e - o mais importante - você pode enviar um testemunho por escrito diretamente aos nossos representantes na Câmara Estadual para tornar a sua perspetiva parte da conversa."
+  },
+  "benefits": {
+    "header": "O que oferecemos",
+    "youMatter": {
+      "title": "Dê a sua opinião sobre as questões que lhe interessam",
+      "bodytext": "Antes de a legislatura do estado de Massachusetts poder aprovar um projeto de lei, convocam três comissões para ouvir o testemunho do público sobre as alterações políticas que o projeto de lei propõe. Não perca a oportunidade de fazer ouvir a sua perspetiva; apresente o seu testemunho para usar a sua voz para moldar a política pública para a nossa Comunidade."
+    },
+    "multipleSides": {
+      "title": "Ouvir vários lados e perspectivas",
+      "bodytext": "Sendo uma plataforma apartidária, todas as partes interessadas podem utilizar a MAPLE para partilhar a sua perspetiva sobre questões e projectos de lei. Veja o que os outros estão a dizer para ficar mais informado sobre as questões de política pública mais importantes do dia."
+    },
+    "trustedOrgs": {
+      "title": "Veja o que dizem as organizações em que confia",
+      "bodytext": "As organizações usam a MAPLE para partilhar as suas prioridades e posições com o mundo. Procure testemunhos dos grupos a que pertence e em que confia no MAPLE para o ajudar a aprender sobre as questões que lhe interessam."
+    },
+    "anyLanguage": {
+      "title": "Ler e escrever testemunhos em qualquer língua",
+      "bodytext": "Tanto o conteúdo do nosso sítio Web como os testemunhos que publicamos podem ser traduzidos automaticamente para qualquer língua, a pedido, pelo que quem não fala inglês pode escrever testemunhos em qualquer língua e os legisladores podem clicar num botão para os traduzir automaticamente para inglês. Embora a tradução automática não seja perfeita, representa um grande passo em frente na acessibilidade linguística para os testemunhos que não têm acesso a tradução especializada."
+    },
+    "stayInformed": {
+      "title": "Saiba o que está a acontecer nas questões que lhe interessam",
+      "bodytext": "O processo legislativo de qualquer projeto de lei ou questão política pode ser longo e complicado. Use o MAPLE para ter acesso fácil a informações atualizadas e contextualizadas sobre o status, o debate e os próximos passos de cada projeto de lei em tramitação na legislatura."
+    }
+  },
+  "challenge": {
+    "header": "Comece a utilizar o MAPLE hoje mesmo!",
+    "title": "Registe-se hoje na sua conta para fazer ouvir a sua voz.",
+    "bodytextOne": "Quando se inscreve numa conta MAPLE, pode começar imediatamente a apresentar o seu próprio testemunho sobre qualquer fatura.",
+    "bodytextTwo": "A criação de uma conta MAPLE é totalmente gratuita e demora apenas alguns minutos.",
+    "signUp": "Clique aqui para se inscrever na sua conta MAPLE",
+    "contact": "Tem alguma dúvida? Contactar info@mapletestimony.org"
+  }
+}
