@@ -1,0 +1,100 @@
+{
+  "header": "Editar perfil",
+  "setting": "Definições",
+  "privacySetting": "Definições de privacidade",
+  "save": "Guardar",
+  "cancel": "Cancel",
+  "enable": "Ativar",
+  "enabled": "Ativado",
+  "disable": "Desativar",
+  "disabled": "Desativado",
+  "viewMyProfile": "Ver o meu perfil",
+  "viewOrgProfile": "Ver a minha organização",
+  "saveChanges": "Guardar informações pessoais",
+  "tooltipText": "Na MAPLE, as pessoas são fundamentais. Queremos fomentar uma comunidade à medida que cada pessoa dá o seu testemunho público para potenciar a mudança de políticas. Ao fornecer mais informações sobre si, ajuda os legisladores e outros a verem quais são os seus objectivos e a ligarem-se de uma forma impactante.",
+  "tabs": {
+    "personalInfo": "Informações pessoais",
+    "testimonies": "Testemunhos",
+    "following": "A seguir"
+  },
+  "content": {
+    "reqPending": "O seu pedido para ser uma conta de organização está pendente de aprovação",
+    "uplaodOrgImg": "Introduzir uma imagem para o perfil da sua organização",
+    "error": "Ocorreu um erro. Por favor, actualize a página."
+  },
+  "follow": {
+    "bills": "Contas que segue",
+    "orgs": "Organizações que segue",
+    "unfollow": "Deixar de seguir"
+  },
+  "confirmation": {
+    "unfollowMessage": "Tem a certeza de que pretende deixar de seguir",
+    "yes": "Sim",
+    "no": "Não"
+  },
+  "email": {
+    "frequencyQuery": "Com que frequência gostaria de receber mensagens de correio eletrónico?",
+    "daily": "Diário",
+    "weekly": "Semanal",
+    "monthly": "Mensal"
+  },
+  "legislator": {
+    "representative": "Representante",
+    "searchRepresentative": "Procurar o seu representante",
+    "senator": "Senador",
+    "searchSenator": "Procurar o seu senador",
+    "yourLegislators": "Os seus legisladores",
+    "politeWords": "Utilize o ",
+    "findTool": "ferramenta encontre o seu legislador",
+    "findToolTip": " e selecionar o seu deputado e senador."
+  },
+  "forms": {
+    "generalInfo": "Informações gerais",
+    "fullName": "Nome completo",
+    "orgName": "Nome da organização",
+    "nickname": "Apelido",
+    "makePublic": "Tornar público",
+    "makePrivate": "Tornar privado",
+    "errNameRequired": "O nome é obrigatório",
+    "errOrgNameRequired": "O nome da organização é obrigatório",
+    "errEmptyAndMinLength": "Deve ter pelo menos duas personagens",
+    "aboutYou": "Escrever algo sobre si próprio",
+    "aboutYouTip": "O que é que se deve escrever?",
+    "selectOrgCategory": "Selecionar uma categoria de organização",
+    "notification": "Notificações",
+    "notificationText": "Gostaria de receber actualizações sobre projectos de lei/organizações que segue através de correio eletrónico?",
+    "notificationFrequencyText": "Com que frequência gostaria de receber estas actualizações?"
+  },
+  "socialLinks": {
+    "socialMedia": "Redes sociais",
+    "twitter": "Nome de utilizador do Twitter",
+    "linkedIn": "URL do LinkedIn",
+    "instagram": "Nome de utilizador do Instagram",
+    "facebook": "Ligação ao Facebook"
+  },
+  "contact": {
+    "contactInfo": "Informações de contacto",
+    "website": "Sítio Web",
+    "email": "E-mail de contacto",
+    "phone": "Número de telefone de contacto",
+    "phoneLenWarning1": "O seu número de telefone deve ter, pelo menos, 10 números",
+    "phoneLenWarning2": "O seu número de telefone não pode ter mais de 10 números",
+    "phoneNumWarning": "Introduza um número de telefone composto apenas por números"
+  },
+  "testimonies": {
+    "published": "Testemunhos publicados",
+    "draft": "Projectos de testemunhos",
+    "faq": "Testemunhos FAQ",
+    "edit": "Edição de testemunhos",
+    "editTip1": "A edição de testemunhos é permitida, mas os utilizadores poderão ver o histórico de edições.",
+    "editTip2": "Forneça um motivo de edição para informar os seus colegas utilizadores sobre o motivo pelo qual alterou uma determinada posição/mensagem."
+  },
+  "privacyText": {
+    "organization": "O seu perfil está definido como público. Outras pessoas podem ver a sua página de perfil. As contas da organização não podem definir o seu perfil como privado.",
+    "pendingUpgrade": "O seu perfil é privado até que o seu pedido para ser uma conta da Organização seja aprovado.",
+    "publicUser": "O seu perfil é atualmente público. Outras pessoas podem ver a sua página de perfil.",
+    "privateUser": "O seu perfil é atualmente privado. O seu nome continua a estar associado aos testemunhos publicados, mas a sua página de perfil está oculta.",
+    "admin": "O seu perfil é atualmente público. Outras pessoas podem ver a sua página de perfil. As contas de administrador não podem definir o seu perfil como privado.",
+    "default": "A publicidade do seu perfil é desconhecida. Para mais informações, contacte o administrador."
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "about": "Sobre",
+  "back_to_bills": "voltar à lista de facturas",
+  "browse_bills": "consultar facturas",
+  "button": {
+    "follow": "Seguir",
+    "following": "A seguir",
+    "followed": "Seguido"
+  },
+  "calendar": "O nosso calendário",
+  "joinTraining": "e participe numa próxima sessão de formação!",
+  "learn": "Aprender",
+  "let_your_voice_be_heard": "Faz com que a tua voz seja ouvida!",
+  "loading": {
+    "inProgress": "Carregando...",
+    "error": { "message": "Houve um problema ao carregar a página." },
+    "reload": "Recarregar para tentar novamente"
+  },
+  "logInSignUp": "Iniciar sessão / Inscrever-se",
+  "maple_abbr": "AMÊNDOA",
+  "maple_fullName": "Plataforma de Massachusetts para o envolvimento legislativo",
+  "navigation": {
+    "accountProfile": "Perfil",
+    "additionalResources": "Recursos adicionais",
+    "browseBills": "Procurar facturas",
+    "browseTestimony": "Procurar testemunhos",
+    "communicatingWithLegislators": "Comunicar com os legisladores",
+    "editProfile": "Editar perfil",
+    "faq": "FAQ",
+    "home": "Início",
+    "learnAboutTestimony": "Saber mais sobre o testemunho",
+    "legislativeProcess": "Sobre o processo legislativo do MA",
+    "logo": "Logótipo MAPLE",
+    "missionAndGoals": "Missão e objectivos",
+    "team": "Equipa",
+    "privacyAndConduct": "Política de privacidade e código de conduta",
+    "signOut": "Sair",
+    "supportMaple": "Apoio MAPLE",
+    "toWriteEffectiveTestimony": "Para escrever um testemunho eficaz",
+    "viewProfile": "Ver perfil",
+    "whyUseMaple": "Porquê utilizar o MAPLE"
+  },
+  "newcomer": "Novo no MAPLE? Para obter apoio adicional, consulte",
+  "notInCommittee": "Projeto de lei que não está atualmente em comissão",
+  "orgs": "Organizações",
+  "pending_upgrade_warning": {
+    "header": "Pedido de organização em curso",
+    "content": "O seu pedido de atualização para uma organização está atualmente em curso. Será notificado por correio eletrónico quando o seu pedido tiver sido analisado."
+  },
+  "short_description": "O MAPLE torna mais fácil para qualquer pessoa ver e submeter testemunhos à Legislatura de Massachusetts sobre os projectos de lei que irão moldar o nosso futuro."
+}

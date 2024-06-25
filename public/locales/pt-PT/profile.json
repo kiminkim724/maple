@@ -1,0 +1,36 @@
+{
+  "aboutMe": "Sobre {{firstName}}",
+  "aboutUs": "Sobre nós",
+  "user": "Utilizador",
+  "noUser": "nenhum utilizador",
+  "anonymousUser": "Utilizador anónimo",
+  "joinDate": "Juntou-se a {{date}}",
+  "button": {
+    "editProfile": "Editar perfil",
+    "notficationFrequencyDropdown": "abrir envelope com carta, alterna as opções de frequência de atualização",
+    "follow": "Seguir",
+    "following": "A seguir"
+  },
+  "content": {
+    "viewingProfile": "Atualmente a ver o seu perfil",
+    "publicProfile": "O seu perfil é atualmente público. Pode alterar esta opção nas \"definições\"",
+    "privateProfile": "O seu perfil é atualmente privado. Pode alterar esta opção nas \"definições\"",
+    "noLegislatorInfo": "Não são dadas informações sobre o legislador"
+  },
+  "verifyAccountSection": {
+    "verifyAccount": "Enviámos uma ligação para o seu e-mail para verificar a sua conta, mas ainda não\nclicou nela ainda. Se não a vir, certifique-se de que verifica a sua pasta de spam\npasta.",
+    "checkEmail": "Verifique o seu correio eletrónico!",
+    "sendAnotherLink": "Enviar outra ligação"
+  },
+  "legislators": "Legisladores",
+  "representative": "Representante",
+  "senator": "Senador",
+  "orgIcon": {
+    "large": "Ícone de organização grande",
+    "small": "Ícone de pequena organização"
+  },
+  "userIcon": {
+    "large": "Ícone de utilizador grande",
+    "small": "Ícone de utilizador pequeno"
+  }
+}

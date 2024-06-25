@@ -1,0 +1,30 @@
+{
+  "aboutMe": "关于{{firstName}}",
+  "aboutUs": "关于我们",
+  "user": "用户",
+  "noUser": "无用户",
+  "anonymousUser": "匿名用户",
+  "joinDate": "加入{{date}}",
+  "button": {
+    "editProfile": "编辑简介",
+    "notficationFrequencyDropdown": "用信件打开信封，切换更新频率选项",
+    "follow": "跟进",
+    "following": "后续行动"
+  },
+  "content": {
+    "viewingProfile": "正在查看您的个人资料",
+    "publicProfile": "您的个人资料目前是公开的。您可以在 \"设置 \"中进行更改",
+    "privateProfile": "您的个人资料目前是保密的。您可以在 \"设置 \"中进行更改",
+    "noLegislatorInfo": "未提供立法者信息"
+  },
+  "verifyAccountSection": {
+    "verifyAccount": "我们向您的电子邮件发送了一个链接来验证您的帐户，但您还没有\n但您还没有点击。如果您没有看到该链接，请务必检查您的垃圾邮件\n文件夹。",
+    "checkEmail": "查看您的电子邮件！",
+    "sendAnotherLink": "发送另一个链接"
+  },
+  "legislators": "立法者",
+  "representative": "代表",
+  "senator": "参议员",
+  "orgIcon": { "large": "大型组织图标", "small": "小型组织图标" },
+  "userIcon": { "large": "大型用户图标", "small": "小用户图标" }
+}

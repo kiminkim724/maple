@@ -1,0 +1,47 @@
+{
+  "about": "关于",
+  "back_to_bills": "返回法案清单",
+  "browse_bills": "浏览账单",
+  "button": { "follow": "跟进", "following": "后续行动", "followed": "跟随" },
+  "calendar": "我们的日历",
+  "joinTraining": "并参加即将举行的培训课程！",
+  "learn": "学习",
+  "let_your_voice_be_heard": "让人们听到你的声音！",
+  "loading": {
+    "inProgress": "正在加载...",
+    "error": { "message": "页面加载有问题。" },
+    "reload": "重新加载以重试"
+  },
+  "logInSignUp": "登录/注册",
+  "maple_abbr": "枫树",
+  "maple_fullName": "马萨诸塞州立法参与平台",
+  "navigation": {
+    "accountProfile": "简介",
+    "additionalResources": "其他资源",
+    "browseBills": "浏览法案",
+    "browseTestimony": "浏览证词",
+    "communicatingWithLegislators": "与立法者沟通",
+    "editProfile": "编辑简介",
+    "faq": "常见问题",
+    "home": "首页",
+    "learnAboutTestimony": "了解证言",
+    "legislativeProcess": "关于马萨诸塞州立法程序",
+    "logo": "枫树标志",
+    "missionAndGoals": "使命与目标",
+    "team": "团队",
+    "privacyAndConduct": "隐私政策和行为准则",
+    "signOut": "签出",
+    "supportMaple": "支持 MAPLE",
+    "toWriteEffectiveTestimony": "撰写有效的证词",
+    "viewProfile": "查看简介",
+    "whyUseMaple": "为什么使用苹果"
+  },
+  "newcomer": "刚开始使用 MAPLE？如需额外支持，请查看",
+  "notInCommittee": "目前未进入全委会的法案",
+  "orgs": "组织机构",
+  "pending_upgrade_warning": {
+    "header": "组织申请进行中",
+    "content": "您升级为组织的申请正在处理中。您的申请通过审核后，我们将通过电子邮件通知您。"
+  },
+  "short_description": "MAPLE 让任何人都能轻松查看并向马萨诸塞州议会提交有关影响我们未来的法案的证词。"
+}
