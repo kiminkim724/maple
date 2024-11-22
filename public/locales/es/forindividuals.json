@@ -1,0 +1,39 @@
+{
+  "title": "MAPLE para particulares",
+  "callToAction": {
+    "header": "Por qué utilizar MAPLE",
+    "title": "MAPLE te lo pone fácil para que te unas a la conversación de toda la Commonwealth sobre los proyectos de ley que darán forma a nuestro futuro.",
+    "bodytext": "Con una rápida búsqueda en MAPLE, puedes ver qué proyectos de ley está considerando la legislatura estatal sobre los temas que te importan. Puedes averiguar qué cambios políticos se proponen, ver lo que otros electores y organizaciones están diciendo al respecto y, lo más importante, puedes presentar un testimonio por escrito directamente a nuestros representantes en la Cámara de Representantes del Estado para que tu punto de vista forme parte de la conversación."
+  },
+  "benefits": {
+    "header": "Qué ofrecemos",
+    "youMatter": {
+      "title": "Opina sobre los temas que te importan",
+      "bodytext": "Antes de que la legislatura del estado de Massachusetts pueda aprobar un proyecto de ley, convoca tres comités para escuchar testimonios públicos sobre los cambios políticos que propone dicho proyecto. No pierda la oportunidad de hacer oír su opinión; envíe su testimonio para utilizar su voz para dar forma a la política pública de nuestra Commonwealth."
+    },
+    "multipleSides": {
+      "title": "Escuchar múltiples puntos de vista y perspectivas",
+      "bodytext": "Como plataforma no partidista, todos los interesados pueden utilizar MAPLE para compartir su punto de vista sobre temas y proyectos de ley. Vea lo que dicen los demás para estar más informado sobre las cuestiones de política pública más importantes del momento."
+    },
+    "trustedOrgs": {
+      "title": "Vea lo que dicen las organizaciones en las que confía",
+      "bodytext": "Las organizaciones utilizan MAPLE para compartir sus prioridades y posturas con el mundo. Busca testimonios de los grupos a los que perteneces y en los que confías en MAPLE para que te ayuden a informarte sobre los temas que te importan."
+    },
+    "anyLanguage": {
+      "title": "Leer y escribir testimonios en cualquier idioma",
+      "bodytext": "Tanto el contenido de nuestro sitio web como los testimonios que publicamos pueden traducirse automáticamente a cualquier idioma bajo demanda, de modo que las personas que no hablan inglés pueden escribir un testimonio en cualquier idioma y los legisladores pueden pulsar un botón para traducirlo automáticamente al inglés. Aunque la traducción automática no es perfecta, supone un gran paso adelante en la accesibilidad lingüística para los declarantes que no tienen acceso a la traducción de expertos."
+    },
+    "stayInformed": {
+      "title": "Infórmese sobre los temas que le preocupan",
+      "bodytext": "El proceso legislativo de cualquier proyecto de ley o cuestión política puede ser largo y complicado. Utilice MAPLE para acceder fácilmente a información actualizada y contextualizada sobre la situación, el debate y los próximos pasos de cada proyecto de ley que se tramita en la legislatura."
+    }
+  },
+  "challenge": {
+    "header": "Empieza a utilizar MAPLE hoy mismo",
+    "title": "Regístrese hoy mismo para hacer oír su voz.",
+    "bodytextOne": "Cuando te registras en una cuenta MAPLE, puedes empezar inmediatamente a presentar tu propio testimonio sobre cualquier factura.",
+    "bodytextTwo": "Crear una cuenta MAPLE es totalmente gratuito y sólo lleva un par de minutos.",
+    "signUp": "Haga clic aquí para crear su cuenta MAPLE",
+    "contact": "¿Tiene alguna pregunta? Póngase en contacto con info@mapletestimony.org"
+  }
+}

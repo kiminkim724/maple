@@ -1,0 +1,21 @@
+{
+  "header": "Objetivos y misión",
+  "goals": {
+    "title": "Nuestros objetivos",
+    "overview": "MAPLE es una plataforma pública gratuita para presentar y leer testimonios sobre la legislación de Massachusetts. Pretendemos alcanzar estos objetivos:",
+    "increase": "Aumentar el acceso a la información legislativa y las oportunidades de contribuir al proceso legislativo.",
+    "engage": "Implicar a un conjunto más amplio de partes interesadas y perspectivas en la elaboración de políticas.",
+    "strengthen": "Reforzar las relaciones entre electores y legisladores.",
+    "encourage": "Fomentar el entendimiento común y alumbrar el consenso."
+  },
+  "mission": {
+    "title": "Nuestra misión",
+    "overview": "Facilite el cumplimiento de sus responsabilidades cívicas en Massachusetts",
+    "connect": "MAPLE pretende conectar mejor a sus electores entre sí y con nuestros legisladores. Esperamos crear un espacio para que usted pueda participar de manera significativa en el gobierno estatal, aprender acerca de la legislación propuesta que afecta a nuestras vidas en la Commonwealth, y compartir su experiencia e historias. MAPLE pretende canalizar y concentrar su energía cívica en acciones productivas para nuestro estado y nuestras comunidades locales.",
+    "disclosure": "En la actualidad, el poder legislativo de MA (formalmente conocido como \"Tribunal General\") no tiene obligación legal de revelar los testimonios escritos que recibe y, en la práctica, rara vez lo hace. En consecuencia, puede resultar difícil comprender qué comunicaciones y perspectivas informan las decisiones de nuestros legisladores. A menudo, ni siquiera los miembros de la legislatura pueden acceder fácilmente a los testimonios públicos ofrecidos sobre un proyecto de ley.",
+    "callout": "MAPLE pretende llenar este vacío.",
+    "publish1": "Cuando envías un testimonio a través de la plataforma MAPLE, puedes publicarlo en una base de datos en línea de libre acceso (este sitio web) para que todas las demás partes interesadas puedan leer tu punto de vista. También te ayudamos a encontrar los destinatarios adecuados en la legislatura para tu testimonio, y preparamos el correo electrónico para que lo envíes.",
+    "publish2": "Esperamos que esto ayude a fomentar una mayor capacidad y medios para el autogobierno y conduzca a mejores resultados políticos, con una mayor alineación con las necesidades, valores y objetivos de la población de Massachusetts. Aunque no es obligatorio que envíe su testimonio a través de este sitio web, esperamos que lo haga. Cada testimonio publicado permite que más personas se beneficien de sus conocimientos y experiencia.",
+    "submit_now": "Envíe su testimonio ahora"
+  }
+}
