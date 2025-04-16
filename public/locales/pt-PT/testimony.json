@@ -1,0 +1,81 @@
+{
+  "link": {
+    "tweetContent": "Prestei testemunho sobre o projeto de lei {{billNumber}}. Ver {{link}} para mais pormenores.",
+    "twitter": "Tweet o seu testemunho publicado"
+  },
+  "testimonyDetail": {
+    "what": "O que é que",
+    "says": "diz",
+    "thisPolicy": "esta política",
+    "edited": "Editado"
+  },
+  "revisionHistory": {
+    "version": "versão",
+    "history": "Histórico de revisões"
+  },
+  "policyActions": { "actions": "Acções" },
+  "testimonyVersionBanner": {
+    "viewingVersion": "Visualizar uma versão desactualizada do testemunho",
+    "backToVersion": "Voltar à versão atual"
+  },
+  "testimonyCallout": { "bill": "Fatura", "position": "{{position1}}" },
+  "testimonyCalloutSection": {
+    "peopleSaying": "O que as pessoas estão a dizer...",
+    "browseTestimony": "Procurar em todos os testemunhos"
+  },
+  "reportModal": {
+    "reportTestimony": "Relatório Testemunho",
+    "reason": "Motivo",
+    "close": "Fechar",
+    "reporting": "Relatórios",
+    "report": "Relatório",
+    "rescind": "Pode pedir que o seu testemunho seja apagado preenchendo este formulário. Uma vez que o MAPLE é um arquivo, os pedidos de eliminação só serão aceites se o testemunho tiver sido submetido na fatura errada, se contiver informações pessoais sensíveis ou se o utilizador tiver menos de 18 anos de idade.",
+    "personalInformation": "Informações pessoais",
+    "wrongBill": "Apresentado na fatura errada",
+    "offensive": "Ofensivo",
+    "violent": "Violento",
+    "spam": "Spam",
+    "phishing": "Phishing",
+    "sensitiveInformation": "Contém informações sensíveis",
+    "userBelow18YearsOld": "Utilizador com menos de 18 anos",
+    "other": "Outros"
+  },
+  "reportToast": { "success": "{{successful1}}" },
+  "sortTestimonyDropDown": {
+    "recentFirst": "Mais recente Primeiro",
+    "oldestFirst": "Mais antigo Primeiro"
+  },
+  "testimonyItem": {
+    "deleteTestimonyConfirmation": "Tem a certeza de que pretende apagar o seu testemunho?",
+    "no": "Não",
+    "editIcon": "Editar ícone",
+    "deleteIcon": "Ícone de apagar testemunho",
+    "expand": "Expandir",
+    "moreDetails": "Mais pormenores",
+    "edit": "Editar",
+    "rescind": "Rescindir",
+    "toast": {
+      "successful": {
+        "header": "Sucesso",
+        "body": "O seu relatório foi registado."
+      },
+      "failed": {
+        "header": "Falhado",
+        "body": "Não foi possível registar o seu relatório. Por favor, tente novamente mais tarde."
+      }
+    }
+  },
+  "userFilterDropdown": {
+    "publishedTestimonies": "Todos os testemunhos publicados",
+    "usersOnly": "Apenas utilizadores",
+    "organizationsOnly": "Apenas organizações"
+  },
+  "userInfoHeader": { "edited": "Editado" },
+  "viewAttached": "Ver o testemunho em anexo em PDF",
+  "viewTestimony": {
+    "showing": "Exibição",
+    "showing1": "Mostrando 1 - ",
+    "outOf": " fora de ",
+    "noTestimonies": "Não há testemunhos "
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "headers": {
+    "follow": "Siga a MAPLE",
+    "browse": "Visite",
+    "account": "Cuenta",
+    "resources": "Recursos"
+  },
+  "links": {
+    "learnWriting": "Redactar un testimonio eficaz",
+    "learnLegislators": "Contacto con los legisladores",
+    "resourcesLegislators": "Encuentre a sus legisladores",
+    "resourcesGitHub": "MAPLE en GitHub",
+    "resourcesOpenCollective": "MAPLE OpenCollective",
+    "teamNEU": "NuLawLab de la Universidad Northeastern",
+    "teamCFB": "Código para Boston",
+    "teamHarvard": "Centro Berkman Klein de Harvard"
+  },
+  "legal": {
+    "disclaimer": "MAPLE es un proyecto independiente, no vinculado al poder legislativo de Massachusetts",
+    "TOS": "Política de privacidad y condiciones del servicio"
+  }
+}

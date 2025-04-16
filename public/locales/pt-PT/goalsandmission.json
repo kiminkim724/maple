@@ -1,0 +1,21 @@
+{
+  "header": "Os nossos objectivos e missão",
+  "goals": {
+    "title": "Os nossos objectivos",
+    "overview": "A MAPLE é uma plataforma pública gratuita para submeter e ler testemunhos sobre a legislação de Massachusetts. O nosso objetivo é alcançar estes objectivos:",
+    "increase": "Aumentar o acesso à informação legislativa e às oportunidades de contribuir para o processo legislativo.",
+    "engage": "Envolver um conjunto mais vasto de partes interessadas e de perspectivas na elaboração de políticas.",
+    "strengthen": "Reforçar as relações entre os eleitores e os legisladores.",
+    "encourage": "Incentivar o entendimento comum e iluminar o consenso."
+  },
+  "mission": {
+    "title": "A nossa missão",
+    "overview": "Facilite o cumprimento significativo das suas responsabilidades cívicas em Massachusetts",
+    "connect": "A MAPLE procura ligar melhor os seus constituintes uns aos outros e aos nossos legisladores. Esperamos criar um espaço para que você se envolva de forma significativa no governo estadual, aprenda sobre a legislação proposta que tem impacto nas nossas vidas na Commonwealth, e partilhe os seus conhecimentos e histórias. A MAPLE pretende canalizar e concentrar a sua energia cívica em acções produtivas para o nosso estado e comunidades locais.",
+    "disclosure": "Atualmente, não existe qualquer obrigação legal para a legislatura de MA (formalmente conhecida como \"O Tribunal Geral\") de divulgar os testemunhos escritos que recebe e, na prática, essa divulgação muito raramente acontece. Como resultado, pode ser difícil compreender que comunicações e perspectivas estão a informar as decisões dos nossos legisladores. Muitas vezes, nem mesmo os membros da legislatura conseguem aceder facilmente ao testemunho público dado sobre um projeto de lei.",
+    "callout": "O MAPLE procura preencher este vazio.",
+    "publish1": "Quando submete um testemunho através da plataforma MAPLE, pode publicá-lo numa base de dados online de acesso livre (este website) para que todas as outras partes interessadas possam ler a sua perspetiva. Também o ajudamos a encontrar os destinatários certos na legislatura para o seu testemunho, e preparamos o e-mail para o enviar.",
+    "publish2": "Esperamos que isto ajude a promover uma maior capacidade e meios de auto-governação e conduza a melhores resultados políticos, com um maior alinhamento com as necessidades, valores e objectivos da população de Massachusetts. Embora não seja obrigatório apresentar um testemunho através deste sítio Web, esperamos que o faça. Cada testemunho publicado permite que mais pessoas beneficiem dos seus conhecimentos e experiência.",
+    "submit_now": "Envie o seu testemunho agora!"
+  }
+}
