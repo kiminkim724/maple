@@ -1,0 +1,26 @@
+{
+  "title": "如何支持 MAPLE",
+  "donate": {
+    "header": "捐赠",
+    "bodytextOne": "MAPLE 是开放集体基金会 (OCF) 的 501(c)(3) 资助项目。",
+    "donorsLink": "您可以在我们的 \"开放集体 \"网页上查看捐赠者和支出的完整清单。",
+    "bodytextTwo": "在这里，您可以查看我们收到的每一笔捐款和花费的每一元钱的详细情况--我们是 100% 透明的。我们衷心希望得到您的资助。 "
+  },
+  "volunteer": {
+    "header": "志愿者",
+    "bodytextOne": "MAPLE 由志愿者提供支持。40 多名开发人员参与了 ",
+    "githubLink": "我们的 Github",
+    "bodytextTwo": "这还不包括我们的设计、管理和交流团队！如果您想参与其中，请发送电子邮件至 "
+  },
+  "feedback": {
+    "header": "反馈意见",
+    "bodytextOne": "如果您想分享使用 MAPLE 的经验或对平台提出改进建议，请使用我们的 ",
+    "feedbackForm": "反馈表！",
+    "bodytextTwo": "您还可以让我们了解您在我们的 ",
+    "bugForm": "报告错误表格。"
+  },
+  "useMAPLE": {
+    "header": "使用我们的平台！",
+    "bodytext": "最后，支持 MAPLE 的最佳方式是使用我们的平台并与朋友和同事分享！这是对我们最好的认可。"
+  }
+}

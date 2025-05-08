@@ -1,0 +1,54 @@
+{
+  "title": "MAPLE para organizaciones",
+  "callToAction": {
+    "header": "Por qué utilizar MAPLE",
+    "title": "MAPLE es una potente herramienta de comunicación para organizaciones, que se ofrece de forma totalmente gratuita.",
+    "bodytext": "Sólo te llevará un par de minutos registrar la cuenta de tu organización en MAPLE, lo que te dará acceso inmediato para publicar y compartir tu testimonio, designar tus proyectos de ley prioritarios, conectar con tus miembros y seguidores e investigar la legislación."
+  },
+  "benefits": {
+    "header": "Qué ofrecemos",
+    "reach": {
+      "title": "Ayude a que sus prioridades y posiciones lleguen a un público más amplio",
+      "bodytext": " El testimonio de su organización se destacará ante los visitantes de MAPLE cuando busquen proyectos de ley, con herramientas sencillas para compartirlo en las redes sociales. Los testimonios publicados en MAPLE serán vistos por legisladores, residentes, miembros de los medios de comunicación y otras partes interesadas.  Cuantas más organizaciones compartan su testimonio en la plataforma, más gente lo verá. Incluso puede designar proyectos de ley como sus prioridades legislativas para señalar su enfoque para cada sesión."
+    },
+    "connect": {
+      "title": "Conéctese con sus afiliados y aumente su alcance",
+      "bodytext": "Los usuarios de MAPLE pueden descubrir tu perfil al buscar sus intereses políticos y seguir a tu organización para recibir actualizaciones sobre tus prioridades y posiciones. MAPLE ayuda a alertar a tus electores sobre los proyectos de ley más importantes en temas que te preocupan, y te ayuda a explicar por qué los apoyas o te opones a ellos"
+    },
+    "language": {
+      "title": "Ampliar el acceso a los afiliados que hablan cualquier idioma",
+      "bodytext": "MAPLE utiliza la traducción automática para que el proceso legislativo sea más accesible a las personas cuya lengua materna no es el inglés. Tanto el contenido de nuestro sitio web como los testimonios que publicamos pueden traducirse automáticamente a cualquier idioma bajo demanda, lo que significa que las personas que no hablan inglés pueden escribir su testimonio en el idioma en el que se sientan más cómodas y las oficinas legislativas pueden pulsar un botón para traducirlo al inglés.  Aunque la traducción automática no es perfecta, supone un gran paso adelante en la accesibilidad lingüística para los electores que no tienen acceso a la traducción experta."
+    },
+    "coordinate": {
+      "title": "Coordine fácilmente las campañas de comunicación legislativa",
+      "bodytext": "Mediante un enlace a la página de un proyecto de ley en MAPLE, sus electores pueden enviar su propio testimonio con sólo unos clics. MAPLE facilita a los usuarios de cualquier nivel de experiencia la redacción, el formato y el envío de su testimonio a los legisladores adecuados para cualquier proyecto de ley."
+    },
+    "seeEveryone": {
+      "title": "Vea lo que dice todo el mundo",
+      "bodytext": "Aunque no inicie sesión, puede utilizar MAPLE para consultar los testimonios presentados sobre cualquier proyecto de ley. Obtén una visión general y haz un seguimiento de la opinión pública de un vistazo utilizando nuestros ratios de apoyo/oposición. Lee el testimonio completo de cualquier usuario para encontrar a otras partes interesadas con las que quieras ponerte en contacto o de las que quieras aprender."
+    },
+    "curateHistory": {
+      "title": "Conserve su historial de testimonios",
+      "bodytext": "Cuando envíe su testimonio a través de MAPLE, aparecerá automáticamente en una lista indexada y organizada en su página de perfil. Utilice su perfil para generar automáticamente un registro de sus esfuerzos de presión para su sitio web, para comunicaciones con los miembros o para presentaciones semestrales. También puede publicar en MAPLE, en cualquier momento, testimonios enviados con anterioridad."
+    },
+    "legislativeResearch": {
+      "title": "Acelere su investigación legislativa",
+      "bodytext1": "MAPLE es rápido (muy rápido). Prueba",
+      "linkText": "búsqueda de una factura",
+      "bodytext2": "para ver hasta qué punto MAPLE puede acelerar su proceso de investigación legislativa; ¡no es necesario registrarse!"
+    },
+    "changeNorms": {
+      "title": "Ayude a cambiar las normas en Massachusetts",
+      "bodytext": "La Commonwealth puede ser líder en transparencia legislativa y buen gobierno. Ayude a cambiar las normas en Massachusetts poniendo su testimonio a disposición de todo el mundo."
+    },
+    "signUp": "¿Listo para inscribirte en MAPLE?"
+  },
+  "challenge": {
+    "header": "Acepta el reto de la 193ª edición",
+    "title": "Únete a la Coalición MAPLE para que el 193º Tribunal General sea el más transparente de la historia de Massachusetts",
+    "p1": "Las organizaciones que se unen a la Coalición de Organizaciones Líderes (CLO) de MAPLE se comprometen a publicar todos sus testimonios públicos presentados a la 193ª Corte General a través de la plataforma MAPLE. El 193º Tribunal General es la sesión que se celebra entre enero de 2023 y 2024.",
+    "p2": "Además de todos los beneficios descritos anteriormente, estas organizaciones tendrán sus perfiles destacados en el sitio web de MAPLE durante la sesión legislativa de dos años. Cualquier organización puede ponerse en contacto con MAPLE para ser tenida en cuenta como miembro de la OCL. Se dará prioridad a las organizaciones que se unan a la CLO en función del tamaño de la circunscripción que representen.",
+    "p3": "Maple es un proyecto apartidista y no adopta posiciones políticas; la pertenencia a la CLO no indica la aprobación de ninguna posición política por parte de MAPLE o de su organización matriz, miembros o colaboradores.",
+    "callToAction": "Únase a la coalición MAPLE: info@mapletestimony.org"
+  }
+}

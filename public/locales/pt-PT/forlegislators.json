@@ -1,0 +1,38 @@
+{
+  "title": "MAPLE para Legisladores",
+  "callToAction": {
+    "header": "Porquê utilizar MAPLE",
+    "title": "A MAPLE é uma plataforma gratuita, apartidária e sem fins lucrativos que facilita aos gabinetes legislativos ver o que os constituintes de toda a Commonwealth estão a dizer sobre os projectos de lei que estão a ser analisados em qualquer comissão.",
+    "bodytextOne": "Mesmo antes de criar a sua própria conta, pode procurar na nossa plataforma rápida todos os testemunhos submetidos pelos utilizadores da MAPLE sobre qualquer projeto de lei. As nossas funcionalidades avançadas permitem-lhe filtrar os projectos de lei patrocinados pelo seu gabinete, os projectos de lei relativos à sua cidade ou os projectos de lei que escolher seguir.",
+    "bodytextTwo": "Porquê confiar na MAPLE? Somos uma iniciativa de tecnologia cívica não partidária, sem fins lucrativos e desenvolvida por voluntários, focada em aumentar o envolvimento entre a legislatura e os seus constituintes. Oferecemos o nosso produto como um bem público de fonte aberta; comprometemo-nos a não cobrar aos nossos utilizadores e nunca venderemos os dados da nossa plataforma."
+  },
+  "benefits": {
+    "header": "O que oferecemos",
+    "constituents": {
+      "title": "Saiba o que os eleitores estão a dizer sobre os seus projectos de lei prioritários",
+      "bodytext": "Quando visitar a página de qualquer projeto de lei no MAPLE, pode ver todos os testemunhos submetidos pelos utilizadores do MAPLE juntamente com a informação do seu distrito. Pode facilmente procurar o testemunho dos seus próprios eleitores e ver como as opiniões variam na Commonwealth."
+    },
+    "seeTestimony": {
+      "title": "Ver testemunhos sobre todos os projectos de lei apresentados a todas as comissões num único local",
+      "bodytext": "O MAPLE facilita aos utilizadores a apresentação de testemunhos sobre qualquer projeto de lei, perante qualquer comissão. Qualquer pessoa pode ver o testemunho sobre um projeto de lei assim que este é submetido."
+    },
+    "simplifyTestimony": {
+      "title": "Simplificar o processo de testemunho para os seus constituintes",
+      "bodytext": "Os seus eleitores precisam de ajuda para encontrar a comissão certa, o presidente certo e o endereço de e-mail certo para apresentar o seu testemunho sobre um projeto de lei? Envie-os para o MAPLE! A nossa plataforma torna mais fácil para qualquer pessoa encaminhar os seus testemunhos para os presidentes das comissões certas, bem como para os seus próprios eleitores."
+    },
+    "languageAccess": {
+      "title": "Alargar o acesso aos eleitores que falam qualquer língua",
+      "bodytext": "O MAPLE usa a tradução automática para tornar o processo legislativo mais acessível a falantes não nativos de inglês. Tanto o conteúdo do nosso site como os testemunhos que publicamos podem ser traduzidos automaticamente para qualquer língua, a pedido, o que significa que quem não fala inglês pode escrever o testemunho na língua em que se sente mais confortável e os gabinetes legislativos podem clicar num botão para o traduzir para inglês. Embora a tradução automática não seja perfeita, representa um grande passo em frente na acessibilidade linguística para os eleitores que não têm acesso a tradução especializada."
+    },
+    "advancedStatistics": {
+      "title": "Aceder a estatísticas avançadas de projectos de lei e testemunhos",
+      "bodytext": "Vá além do texto do testemunho escrito. As páginas de projetos de lei do MAPLE mostram quantas pessoas apoiam e se opõem à legislação, como essa opinião mudou ao longo do tempo, quantas pessoas enviaram testemunhos e como o interesse e o apoio estão distribuídos pelo estado."
+    }
+  },
+  "challenge": {
+    "header": "Comece a utilizar o MAPLE!",
+    "title": "Comece a utilizar o MAPLE hoje mesmo para estar atento ao pulso dos seus eleitores!",
+    "bodytext": "Pode consultar os testemunhos apresentados pelos eleitores de todo o estado no MAPLE, com ou sem criar a sua própria conta.",
+    "contact": "Tem alguma dúvida? Estamos aqui para ajudar! Entre em contacto com info@mapletestimony.org"
+  }
+}

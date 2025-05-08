@@ -1,0 +1,23 @@
+{
+  "About_MAPLE": "Acerca de MAPLE",
+  "who": {
+    "title": "Quién",
+    "bodytext": "Todos los residentes de Massachusetts pueden utilizar MAPLE para cumplir su responsabilidad cívica con nuestra democracia estatal."
+  },
+  "when": {
+    "title": "En",
+    "bodytext": "MAPLE acepta testimonios en cualquier momento, pero recomendamos presentarlos antes de la fecha prevista para la audiencia para que tengan mayor repercusión. Las fechas de las audiencias figuran en las páginas de los proyectos de ley de este sitio web."
+  },
+  "how": {
+    "title": "Cómo",
+    "bodytext": "Le ayudamos a elaborar su testimonio, publicarlo en la comunidad y enviarlo directamente a los legisladores adecuados."
+  },
+  "why": {
+    "title": "Por qué",
+    "bodytext": "Su voz es importante; nosotros ayudamos a amplificarla. Hacemos más accesible y transparente el proceso testimonial de la legislatura de Massachusetts."
+  },
+  "what": {
+    "title": "Qué",
+    "bodytext": "MAPLE facilita la presentación de testimonios y la consulta de los testimonios presentados por otras personas."
+  }
+}

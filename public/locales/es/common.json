@@ -1,0 +1,51 @@
+{
+  "about": "Acerca de",
+  "back_to_bills": "volver a la lista de proyectos de ley",
+  "browse_bills": "consultar facturas",
+  "button": {
+    "follow": "Siga",
+    "following": "Después de",
+    "followed": "Siguió"
+  },
+  "calendar": "Nuestro calendario",
+  "joinTraining": "y participa en una de las próximas sesiones de formación",
+  "learn": "Aprenda",
+  "let_your_voice_be_heard": "¡Haz oír tu voz!",
+  "loading": {
+    "inProgress": "Cargando...",
+    "error": { "message": "Se ha producido un problema al cargar la página." },
+    "reload": "Recargar para volver a intentarlo"
+  },
+  "logInSignUp": "Conectarse / Registrarse",
+  "maple_abbr": "MAPLE",
+  "maple_fullName": "Plataforma de compromiso legislativo de Massachusetts",
+  "navigation": {
+    "accountProfile": "Perfil",
+    "additionalResources": "Recursos adicionales",
+    "browseBills": "Ver facturas",
+    "browseTestimony": "Buscar testimonios",
+    "communicatingWithLegislators": "Comunicación con los legisladores",
+    "editProfile": "Editar perfil",
+    "faq": "PREGUNTAS FRECUENTES",
+    "home": "Inicio",
+    "learnAboutTestimony": "Más información sobre el testimonio",
+    "legislativeProcess": "Sobre el proceso legislativo de MA",
+    "logo": "MAPLE logo",
+    "missionAndGoals": "Misión y objetivos",
+    "team": "Equipo",
+    "privacyAndConduct": "Política de privacidad y código de conducta",
+    "signOut": "Cerrar sesión",
+    "supportMaple": "Soporte MAPLE",
+    "toWriteEffectiveTestimony": "Redactar un testimonio eficaz",
+    "viewProfile": "Ver perfil",
+    "whyUseMaple": "Por qué utilizar MAPLE"
+  },
+  "newcomer": "¿Eres nuevo en MAPLE? Para obtener ayuda adicional, consulte",
+  "notInCommittee": "Proyecto de ley fuera de comisión",
+  "orgs": "Organizaciones",
+  "pending_upgrade_warning": {
+    "header": "Solicitud de organización en curso",
+    "content": "Su solicitud para pasar a formar parte de una organización está actualmente en curso. Se le notificará por correo electrónico cuando se haya revisado su solicitud."
+  },
+  "short_description": "MAPLE facilita que cualquiera pueda ver y enviar su testimonio a la Legislatura de Massachusetts sobre los proyectos de ley que darán forma a nuestro futuro."
+}

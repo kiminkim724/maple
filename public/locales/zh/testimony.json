@@ -1,0 +1,72 @@
+{
+  "link": {
+    "tweetContent": "我就{{billNumber}} 法案提供了证词。详见{{link}} 。",
+    "twitter": "在推特上发表您的证言"
+  },
+  "testimonyDetail": {
+    "what": "什么",
+    "says": "说",
+    "thisPolicy": "本政策",
+    "edited": "编辑"
+  },
+  "revisionHistory": { "version": "版本", "history": "修订历史" },
+  "policyActions": { "actions": "行动" },
+  "testimonyVersionBanner": {
+    "viewingVersion": "查看过时的证词版本",
+    "backToVersion": "返回当前版本"
+  },
+  "testimonyCallout": { "bill": "法案", "position": "{{position1}}" },
+  "testimonyCalloutSection": {
+    "peopleSaying": "人们在说什么",
+    "browseTestimony": "浏览所有证词"
+  },
+  "reportModal": {
+    "reportTestimony": "报告证词",
+    "reason": "原因",
+    "close": "关闭",
+    "reporting": "报告",
+    "report": "报告",
+    "rescind": "您可以填写本表要求删除您的证词。由于 MAPLE 是一个档案库，只有在证词提交的账单有误、证词包含敏感个人信息或用户未满 18 周岁的情况下，才会批准删除请求。",
+    "personalInformation": "个人信息",
+    "wrongBill": "提交错误的账单",
+    "offensive": "进攻型",
+    "violent": "暴力",
+    "spam": "垃圾邮件",
+    "phishing": "网络钓鱼",
+    "sensitiveInformation": "包含敏感信息",
+    "userBelow18YearsOld": "18 岁以下用户",
+    "other": "其他"
+  },
+  "reportToast": { "success": "{{successful1}}" },
+  "sortTestimonyDropDown": {
+    "recentFirst": "最近的第一次",
+    "oldestFirst": "年龄最大者优先"
+  },
+  "testimonyItem": {
+    "deleteTestimonyConfirmation": "您确定要删除您的证词吗？",
+    "no": "没有",
+    "editIcon": "编辑图标",
+    "deleteIcon": "删除证词图标",
+    "expand": "展开",
+    "moreDetails": "更多详情",
+    "edit": "编辑",
+    "rescind": "撤销",
+    "toast": {
+      "successful": { "header": "成功", "body": "您的报告已归档。" },
+      "failed": { "header": "失败", "body": "您的报告无法提交。请稍后再试。" }
+    }
+  },
+  "userFilterDropdown": {
+    "publishedTestimonies": "所有发表的证言",
+    "usersOnly": "仅限用户",
+    "organizationsOnly": "仅限组织"
+  },
+  "userInfoHeader": { "edited": "编辑" },
+  "viewAttached": "查看附带的 PDF 证言",
+  "viewTestimony": {
+    "showing": "显示",
+    "showing1": "显示 1 - ",
+    "outOf": "由于 ",
+    "noTestimonies": "没有证词 "
+  }
+}

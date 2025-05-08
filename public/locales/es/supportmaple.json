@@ -1,0 +1,26 @@
+{
+  "title": "Cómo apoyar a MAPLE",
+  "donate": {
+    "header": "Donar",
+    "bodytextOne": "MAPLE es una iniciativa patrocinada fiscalmente por la Fundación Colectiva Abierta (OCF), de categoría 501(c)(3).",
+    "donorsLink": "Puede consultar la lista completa de nuestros donantes y gastos en nuestra página web Open Collective.",
+    "bodytextTwo": "Aquí puedes ver los detalles de cada donación que hemos recibido y cada dólar que hemos gastado: somos 100% transparentes. Le agradeceríamos su apoyo financiero. "
+  },
+  "volunteer": {
+    "header": "Voluntario",
+    "bodytextOne": "MAPLE está impulsado por voluntarios. Más de 40 desarrolladores han trabajado en ",
+    "githubLink": "nuestro github",
+    "bodytextTwo": "y eso sin contar nuestros equipos de diseño, gestión y comunicación Si desea participar, envíe un correo electrónico a "
+  },
+  "feedback": {
+    "header": "Comentarios",
+    "bodytextOne": "Si desea compartir sus impresiones sobre el uso de MAPLE o sugerir mejoras para la plataforma, utilice nuestro formulario de contacto ",
+    "feedbackForm": "formulario de comentarios",
+    "bodytextTwo": "También puede informarnos de los \"errores\" que haya encontrado en nuestro sitio web ",
+    "bugForm": "formulario de notificación de errores."
+  },
+  "useMAPLE": {
+    "header": "Utilice nuestra plataforma",
+    "bodytext": "Por último, la mejor forma de apoyar a MAPLE es utilizar nuestra plataforma y compartirla con amigos y colegas Ese es el mejor respaldo que podríamos recibir."
+  }
+}

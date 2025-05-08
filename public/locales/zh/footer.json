@@ -1,0 +1,22 @@
+{
+  "headers": {
+    "follow": "关注枫树",
+    "browse": "浏览",
+    "account": "账户",
+    "resources": "资源"
+  },
+  "links": {
+    "learnWriting": "撰写有效的证词",
+    "learnLegislators": "联系立法者",
+    "resourcesLegislators": "查找您的议员",
+    "resourcesGitHub": "GitHub 上的 MAPLE",
+    "resourcesOpenCollective": "MAPLE OpenCollective",
+    "teamNEU": "东北大学 NuLawLab",
+    "teamCFB": "波士顿代码",
+    "teamHarvard": "哈佛大学伯克曼克莱因中心"
+  },
+  "legal": {
+    "disclaimer": "MAPLE 是一个独立项目，不隶属于马萨诸塞州立法机构",
+    "TOS": "我们的隐私政策和服务条款"
+  }
+}

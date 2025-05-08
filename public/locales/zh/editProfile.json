@@ -1,0 +1,100 @@
+{
+  "header": "编辑简介",
+  "setting": "设置",
+  "privacySetting": "隐私设置",
+  "save": "节省",
+  "cancel": "取消",
+  "enable": "启用",
+  "enabled": "已启用",
+  "disable": "禁用",
+  "disabled": "残疾",
+  "viewMyProfile": "查看我的资料",
+  "viewOrgProfile": "查看我的组织",
+  "saveChanges": "保存个人信息",
+  "tooltipText": "在 MAPLE，人是关键。我们希望在每个人提供公开证词以促进政策变革的过程中培养一个社区。通过提供更多关于您自己的信息，可以帮助立法者和其他人了解您的目标，并以一种有影响力的方式进行沟通。",
+  "tabs": {
+    "personalInfo": "个人信息",
+    "testimonies": "见证",
+    "following": "后续行动"
+  },
+  "content": {
+    "reqPending": "您的组织帐户申请正在等待批准",
+    "uplaodOrgImg": "为机构简介输入图片",
+    "error": "出现错误。请刷新页面。"
+  },
+  "follow": {
+    "bills": "您关注的法案",
+    "orgs": "您关注的组织",
+    "unfollow": "取消关注"
+  },
+  "confirmation": {
+    "unfollowMessage": "您确定要取消关注",
+    "yes": "是",
+    "no": "没有"
+  },
+  "email": {
+    "frequencyQuery": "您希望多久收到一次电子邮件？",
+    "daily": "每日",
+    "weekly": "每周",
+    "monthly": "每月"
+  },
+  "legislator": {
+    "representative": "代表",
+    "searchRepresentative": "搜索您的代表",
+    "senator": "参议员",
+    "searchSenator": "搜索您的参议员",
+    "yourLegislators": "您的立法者",
+    "politeWords": "请使用 ",
+    "findTool": "查找您的议员工具",
+    "findToolTip": "并选择您的州众议员和参议员。"
+  },
+  "forms": {
+    "generalInfo": "一般信息",
+    "fullName": "全名",
+    "orgName": "组织名称",
+    "nickname": "昵称",
+    "makePublic": "公开",
+    "makePrivate": "使私人",
+    "errNameRequired": "姓名为必填项",
+    "errOrgNameRequired": "组织名称为必填项",
+    "errEmptyAndMinLength": "至少应有两个字符",
+    "aboutYou": "写一些关于你自己的内容",
+    "aboutYouTip": "你应该写什么？",
+    "selectOrgCategory": "选择组织类别",
+    "notification": "通知",
+    "notificationText": "您是否希望通过电子邮件接收您关注的法案/组织的最新信息？",
+    "notificationFrequencyText": "您希望多久收到一次这些更新？"
+  },
+  "socialLinks": {
+    "socialMedia": "社交媒体",
+    "twitter": "推特用户名",
+    "linkedIn": "LinkedIn 网址",
+    "instagram": "Instagram 用户名",
+    "facebook": "Facebook 链接"
+  },
+  "contact": {
+    "contactInfo": "联系信息",
+    "website": "网站",
+    "email": "联系电子邮件",
+    "phone": "联系电话",
+    "phoneLenWarning1": "您的电话号码长度至少应为 10 个数字",
+    "phoneLenWarning2": "您的电话号码长度不能超过 10 个数字",
+    "phoneNumWarning": "请输入仅由数字组成的电话号码"
+  },
+  "testimonies": {
+    "published": "发表的证言",
+    "draft": "证词草稿",
+    "faq": "证词常见问题",
+    "edit": "编辑证词",
+    "editTip1": "允许编辑证词，但用户可以查看编辑历史。",
+    "editTip2": "提供编辑理由，告知其他用户您为何改变了特定的立场/信息。"
+  },
+  "privacyText": {
+    "organization": "您的个人资料已设置为公开。其他人可以查看您的个人资料页面。组织账户不能将个人资料设置为私有。",
+    "pendingUpgrade": "在您申请成为组织账户获得批准之前，您的个人资料是保密的。",
+    "publicUser": "您的个人资料目前是公开的。其他人可以查看您的个人资料页面。",
+    "privateUser": "您的个人资料目前是私人的。您的姓名仍与已发表的见证相关联，但您的个人档案页面被隐藏。",
+    "admin": "您的个人资料目前是公开的。其他人可以查看您的个人资料页面。管理员账户不能将其个人资料设置为非公开。",
+    "default": "您的个人资料宣传情况不明。请联系管理员获取更多信息。"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "link": {
+    "tweetContent": "Presté testimonio sobre el proyecto de ley {{billNumber}}. Véase {{link}} para más detalles.",
+    "twitter": "Tuitea tu testimonio publicado"
+  },
+  "testimonyDetail": {
+    "what": "Qué",
+    "says": "dice",
+    "thisPolicy": "esta política",
+    "edited": "Editado"
+  },
+  "revisionHistory": {
+    "version": "versión",
+    "history": "Historial de revisiones"
+  },
+  "policyActions": { "actions": "Acciones" },
+  "testimonyVersionBanner": {
+    "viewingVersion": "Visualización de una versión desfasada del testimonio",
+    "backToVersion": "Volver a la versión actual"
+  },
+  "testimonyCallout": { "bill": "Bill", "position": "{{position1}}" },
+  "testimonyCalloutSection": {
+    "peopleSaying": "Lo que dice la gente...",
+    "browseTestimony": "Ver todos los testimonios"
+  },
+  "reportModal": {
+    "reportTestimony": "Informe Testimonio",
+    "reason": "Razón",
+    "close": "Cerrar",
+    "reporting": "Informes",
+    "report": "Informe",
+    "rescind": "Puede solicitar la eliminación de su testimonio rellenando este formulario. Dado que MAPLE es un archivo, las solicitudes de supresión sólo se atenderán si el testimonio se presentó en una factura equivocada, si contenía información personal sensible o si el usuario es menor de 18 años.",
+    "personalInformation": "Información personal",
+    "wrongBill": "Enviado a la factura equivocada",
+    "offensive": "Ofensiva",
+    "violent": "Violento",
+    "spam": "Spam",
+    "phishing": "Phishing",
+    "sensitiveInformation": "Contiene información sensible",
+    "userBelow18YearsOld": "Usuario menor de 18 años",
+    "other": "Otros"
+  },
+  "reportToast": { "success": "{{successful1}}" },
+  "sortTestimonyDropDown": {
+    "recentFirst": "Más reciente Primero",
+    "oldestFirst": "El más antiguo primero"
+  },
+  "testimonyItem": {
+    "deleteTestimonyConfirmation": "¿Seguro que quieres borrar tu testimonio?",
+    "no": "No",
+    "editIcon": "Editar icono",
+    "deleteIcon": "Icono Borrar testimonio",
+    "expand": "Ampliar",
+    "moreDetails": "Más detalles",
+    "edit": "Editar",
+    "rescind": "Rescindir",
+    "toast": {
+      "successful": {
+        "header": "Éxito",
+        "body": "Su informe ha sido archivado."
+      },
+      "failed": {
+        "header": "Fallido",
+        "body": "Su informe no ha podido ser archivado. Vuelva a intentarlo más tarde."
+      }
+    }
+  },
+  "userFilterDropdown": {
+    "publishedTestimonies": "Todos los testimonios publicados",
+    "usersOnly": "Sólo usuarios",
+    "organizationsOnly": "Sólo organizaciones"
+  },
+  "userInfoHeader": { "edited": "Editado" },
+  "viewAttached": "Ver testimonio adjunto en PDF",
+  "viewTestimony": {
+    "showing": "Mostrar",
+    "showing1": "Mostrando 1 - ",
+    "outOf": " de ",
+    "noTestimonies": "No hay testimonios "
+  }
+}
